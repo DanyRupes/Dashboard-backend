@@ -23,7 +23,7 @@
     "jsonwebtoken": "^8.2.0",
     "lodash": "^4.17.11",
     "mongodb": "^3.2.3",
-    "mongoose": "^5.5.3",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.0",
     "msg91-sms": "^1.0.1",
     "multer": "^1.4.1",
