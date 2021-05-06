@@ -33,6 +33,6 @@
     "path": "^0.12.7",
     "sendotp": "^1.2.9",
     "sequelize": "^5.7.4",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   }
 }
