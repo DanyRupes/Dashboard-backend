@@ -19,7 +19,7 @@
     "cors": "^2.8.5",
     "dotenv": "^7.0.0",
     "ejs": "^2.6.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "jsonwebtoken": "^8.2.0",
     "lodash": "^4.17.11",
     "mongodb": "^3.2.3",
